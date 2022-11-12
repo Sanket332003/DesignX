@@ -27,7 +27,7 @@
         
 
         if($result){
-            header("location:main.php");
+            header("location:index.php");
         }else{
             echo "User Not Registed !!!";
         }
